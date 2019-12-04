@@ -1,0 +1,14 @@
+{
+  "name": "tweet2020",
+  "version": "1.0.0",
+  "description": "API to see 2020 candidates tweets",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nora Harris",
+  "license": "MIT",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
